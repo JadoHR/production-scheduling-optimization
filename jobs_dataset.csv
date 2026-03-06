@@ -1,0 +1,31 @@
+job_id,job_name,processing_time,weight,due_date,arrival_time,factory
+J001,Hand-drawn Batik - Parang Motif,4,3,10,0,Solo Batik Factory
+J002,Stamped Batik - Kawung Motif,2,5,6,0,Solo Batik Factory
+J003,Printed Batik - Mega Mendung Motif,7,2,15,0,Solo Batik Factory
+J004,Hand-drawn Batik - Truntum Motif,5,4,12,0,Solo Batik Factory
+J005,Stamped Batik - Sido Mukti Motif,3,3,8,0,Solo Batik Factory
+J006,Printed Batik - Ceplok Motif,6,1,20,0,Solo Batik Factory
+J007,Hand-drawn Batik - Semen Motif,8,5,18,0,Solo Batik Factory
+J008,Stamped Batik - Nitik Motif,1,2,5,0,Solo Batik Factory
+J009,Printed Batik - Lereng Motif,4,4,9,0,Solo Batik Factory
+J010,Hand-drawn Batik - Udan Liris Motif,9,1,25,0,Solo Batik Factory
+J011,Men Batik Shirt L,3,3,7,1,Bandung Garment Factory
+J012,Women Batik Shirt M,5,5,11,1,Bandung Garment Factory
+J013,Formal Batik Trousers,6,2,14,1,Bandung Garment Factory
+J014,Modern Batik Dress,4,4,10,1,Bandung Garment Factory
+J015,Midi Batik Skirt,2,3,6,2,Bandung Garment Factory
+J016,Casual Batik Blouse,3,5,8,2,Bandung Garment Factory
+J017,Men Batik Jacket,7,4,16,2,Bandung Garment Factory
+J018,Children Batik T-Shirt,1,2,4,2,Bandung Garment Factory
+J019,Silk Batik Scarf,2,5,7,3,Bandung Garment Factory
+J020,Modern Kebaya Batik,8,3,20,3,Bandung Garment Factory
+J021,Rattan Chair Set,10,4,22,0,Jepara Furniture Factory
+J022,Teak Wood Cabinet,15,5,30,0,Jepara Furniture Factory
+J023,Minimalist Dining Table,8,3,18,1,Jepara Furniture Factory
+J024,Pine Wood Bookshelf,6,2,14,1,Jepara Furniture Factory
+J025,Mahogany Bed Frame,12,5,25,2,Jepara Furniture Factory
+J026,Living Room Chair Set,9,4,20,2,Jepara Furniture Factory
+J027,Minimalist Work Desk,5,3,12,3,Jepara Furniture Factory
+J028,Teak Wood Nightstand,4,2,10,3,Jepara Furniture Factory
+J029,Wooden Frame Mirror,3,1,8,4,Jepara Furniture Factory
+J030,Wooden Shoe Rack,4,2,12,4,Jepara Furniture Factory
